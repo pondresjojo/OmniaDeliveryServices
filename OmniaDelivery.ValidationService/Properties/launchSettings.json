@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OmniaDelivery.ValidationService": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

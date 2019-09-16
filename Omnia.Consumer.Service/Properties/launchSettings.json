@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OmniaDelivery.ConsumerService": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
